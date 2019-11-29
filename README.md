@@ -36,6 +36,7 @@ __Clang 6.0 :__
 #### Build toolchain for MacOS
 
 - apple-clang-10-macos-toolchain
+- apple-clang-11-macos-toolchain
 
 #### Build on Linux
 
